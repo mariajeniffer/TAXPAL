@@ -7,6 +7,24 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
+## 📸 Screenshots
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Invoice Management
+![Invoice Management](screenshots/invoice.png)
+
+### AI Advisor
+![AI Advisor](screenshots/AIAdvisor.png)
+
+### Tax Planner
+![Tax Planner](screenshots/taxplanner.png)
+
+
 ## React Compiler
 
 The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
